@@ -31,7 +31,7 @@ We noticed that `service1` is always under heavy load so we decided to scale up 
 It would be a plus if you :  
 
 - Set up a monitoring solution with different metrics.
-- An alarm service that sends an email whenver the status of the services are critical
+- Set up an alarm service that sends an email whenver the status of the services are critical.
 
 ## Deliverables  
 
